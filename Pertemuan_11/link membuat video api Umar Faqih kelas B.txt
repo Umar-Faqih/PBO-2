@@ -1,0 +1,6 @@
+nama: umar faqih
+kelas:R2(TI21B)
+Nim : 210511066
+
+
+ini link video membuat api <https://youtu.be/Hke_3O6tcRc>
